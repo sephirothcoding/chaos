@@ -49,7 +49,7 @@ left: 50%;
 
 .vectro-body {
   -webkit-background-clip: text;
-  background-image: -webkit-linear-gradient(#C3BFB4 0%, #FDFCFA 50%, #E8E7E5 51%, #757172 52%, #E8E9DB 100%);
+  background-image: -webkit-linear-gradient(#008080 0%, #008080 50%, #008080 51%, #008080 52%, #008080 100%);
   -webkit-filter: drop-shadow(2px 2px 15px #3F59F4);
 }
 
